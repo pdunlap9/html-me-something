@@ -1,0 +1,129 @@
+body {
+    background: lightblue url("Images/BG.jpg");
+    font-weight: bold;
+
+text-align: center;
+} 
+header{
+    background: lightgray url("Images/BANNER.jpg");
+    margin-top: -35px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+h1 {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 100px;
+
+}
+
+ul { 
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 10px;
+    width: 9px;
+    list-style-type: none;
+    
+
+}
+
+ul li {
+    background: wheat;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: 1em solid grey;
+    font-size: 20px;
+}
+
+#writtenby {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -30px;
+    padding-bottom: 100px;
+    border-bottom: dotted;
+}
+
+.jobname {
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 200px;
+}
+
+.jobdates {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: -30px;
+}
+
+.described {
+    font-size: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+#jjpic {
+    width:300px;
+}
+
+#tdpic {
+    width: 300px;
+}
+img {
+    margin-right: 300px;
+    float: right;
+    padding-left: 10px;
+	width: 500px;
+    
+}
+
+details {
+    font-size: 20px;
+    margin-right: 300px;
+    
+}
+
+.duties2 {
+font-size: 35px;
+
+}
+ol {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 500px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: dotted;
+    
+}
+.info {
+    margin-left: 300px;
+    margin-right: 500px;
+    background-color: slategray;
+    opacity: .8;
+    font-style: italic;
+}
+#conclusion {
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+
+
+
+
+
+
+
+
+
